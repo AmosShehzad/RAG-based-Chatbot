@@ -1,0 +1,9 @@
+gradio
+PyMuPDF
+langchain
+sentence-transformers
+transformers
+torch
+wordcloud
+matplotlib
+scikit-learn
